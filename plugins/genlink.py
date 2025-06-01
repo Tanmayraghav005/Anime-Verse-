@@ -18,7 +18,7 @@ import base64
 
 async def allowed(_, __, message):
     if PUBLIC_FILE_STORE:
-        return True
+        return False
     if message.from_user and message.from_user.id in ADMINS:
         return True
     return False

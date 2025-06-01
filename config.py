@@ -22,7 +22,7 @@ API_ID = int(environ.get("API_ID", "25966339"))
 API_HASH = environ.get("API_HASH", "d23cbbfe1fecacc17dd8ae7f9d3a6206")
 BOT_TOKEN = environ.get("BOT_TOKEN", "7642374864:AAFIzAdoH2-W9xwB4MWfX7dmkHKFVfIaU1s")
 
-PICS = (environ.get('PICS', 'https://graph.org/file/ce1723991756e48c35aa1.jpg')).split() # Bot Start Picture
+PICS = (environ.get('PICS', 'https://ik.imagekit.io/whriodigz/Leonardo_Phoenix_10_Design_a_bold_flashy_and_ultrastylish_logo_3%20(1).jpg?updatedAt=1748697291211')).split() # Bot Start Picture
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6729505008').split()]
 BOT_USERNAME = environ.get("BOT_USERNAME", "Animeverse_epbot") # without @
 PORT = environ.get("PORT", "8080")

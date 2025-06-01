@@ -5,12 +5,7 @@
 
 class script(object):
     START_TXT = """<b>🤖 Welcome {} to File Store Bot! 
-📁 Send me any file, and I’ll instantly give you a shareable link.
-📢 Join our official channels for latest uploads & updates:
-➡️ @All_Anime_Counter  
-➡️ @Ongoing_Counter
-✅ Verified users can access files for 24 hours. After that, you'll need to verify again.
-⚡ Fast. Simple. Secure. Powered by GamerX Cloud.</b>"""
+📢 Join our official channels for latest uploads & updates</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ

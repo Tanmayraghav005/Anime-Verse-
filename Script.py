@@ -13,7 +13,7 @@ class script(object):
 
     
     CAPTION = """{file_name}
-(@All_Anime_Counter)</b>""" 
+@All_Anime_Counter</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
